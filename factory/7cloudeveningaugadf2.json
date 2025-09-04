@@ -1,0 +1,9 @@
+{
+	"name": "7cloudeveningaugadf2",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de234926-c641-4fa1-80d3-21d7cfdd8c23",
+		"tenantId": "9ae81d8f-a684-4298-88df-ce4f37f841fc"
+	}
+}
